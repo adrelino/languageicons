@@ -1,0 +1,6 @@
+SOURCE:
+https://github.com/pfrenssen/languageicons
+https://www.drupal.org/project/languageicons
+
+CHANGES:
+added pt and zh pseudo flags, made by merging pt-pt\pt-br and zh-hans\zh-hant diagonally.
